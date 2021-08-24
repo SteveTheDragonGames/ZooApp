@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: a309374a366b9e194a923febd27fdf55
+guid: b83a0d5bddefb268db9f2903accecc0f
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 100
-  forceTextureCase: -1
+  fontSize: 16
+  forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - 'Multicolore '
+  - Gobold
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
